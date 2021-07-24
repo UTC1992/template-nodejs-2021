@@ -1,5 +1,5 @@
 {
-  "name": "pilot-dashboards",
+  "name": "template-nodejs-2021",
   "version": "1.0.0",
   "description": "Repository for frontend interfaces",
   "main": "index.js",
@@ -9,16 +9,11 @@
     "lint": "tsc --noEmit && eslint src/**/*.{js,ts} --quiet --fix"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/1Mentor/pilot-dashboards.git"
+    "type": "git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/1Mentor/pilot-dashboards/issues"
-  },
-  "homepage": "https://github.com/1Mentor/pilot-dashboards#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^10.0.0",
